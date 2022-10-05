@@ -65,6 +65,8 @@ object Playground {
         println(x)
       }
 
-        println(twoSum((2,7,11,15), 9)) */
+        println(twoSum((2,7,11,15), 9))
+         test*/
+
     }
 }
